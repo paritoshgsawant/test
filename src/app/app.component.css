@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #f0d9d9;
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color: #000000;
+    font-size: 18px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover
+{
+    text-decoration: underline;
+}

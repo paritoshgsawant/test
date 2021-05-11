@@ -1,0 +1,27 @@
+.joinnow
+{
+    background-color: rgb(10, 238, 219);
+    padding: 140px 50px;
+   
+   
+  
+}
+.login
+{
+    background-color: rgb(252, 247, 247);
+    padding: 20px 20px;
+    margin: 10px;
+
+}
+
+@media screen and (max-width:600px)
+{
+
+    .joinnow
+{
+    background-color: rgb(10, 238, 219);
+    padding: 10px 10px;
+  
+}
+
+}
